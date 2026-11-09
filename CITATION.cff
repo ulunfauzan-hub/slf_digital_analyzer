@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Jika Anda memakai framework ini dalam penelitian, mohon sitasi dengan format berikut."
+title: "SLF Digital Analyzer: kerangka penilaian aset penghidupan (Sustainable Livelihoods Framework) berbasis tabel kuesioner"
+type: software
+authors:
+  - family-names: "ISI-NAMA-BELAKANG"
+    given-names: "ISI-NAMA-DEPAN"
+    # affiliation: "ISI-INSTITUSI"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+version: 0.2.0
+date-released: 2026-11-09
+# doi: "10.5281/zenodo.XXXXXXX"   # isi setelah repo dihubungkan ke Zenodo dan Release dibuat
+# license: MIT                    # isi setelah memilih lisensi (lihat README)
+repository-code: "https://github.com/ISI-USERNAME/ISI-NAMA-REPO"
+url: "https://slfdigitalanalyzer-z7gdzkn5gjgncatnvgmsew.streamlit.app/"
+keywords:
+  - sustainable livelihoods framework
+  - aset penghidupan
+  - hutan desa
+  - lahan basah
+  - Hulu Sungai Utara
+abstract: "Alat penilaian aset penghidupan rumah tangga lima modal (manusia, alam, sosial, fisik, finansial) yang membaca tabel kuesioner modular sehingga dapat disesuaikan untuk berbagai wilayah."
